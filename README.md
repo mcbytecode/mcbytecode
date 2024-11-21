@@ -1,1 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=mcbytecode&theme=midnight-purple&border_radius=1&background=45%2C000000%2C47085F)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=mcbytecode&theme=midnight-purple&border_radius=1&date_format=j%2Fn%5B%2FY%5D&card_width=1440&card_height=600&background=30%2C000000%2C47085F" alt="GitHub Streak" />
+</a>
